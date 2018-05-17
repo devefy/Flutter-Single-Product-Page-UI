@@ -6,6 +6,6 @@
   <img src="assets/Screenshot.png" width="350"/>
 </p>
 
-# Getting Started
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+I attempt to recreate the following Single Product Page Design created by Jagan Karanth: https://dribbble.com/shots/4481170-Single-Product-Daily-UI-Challenge
+
+
